@@ -1,0 +1,7 @@
+casefile (2.1.1-1foxxy0) testing; urgency=medium
+
+  * Import into foxxy
+  * Debianize source code
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Sun, 15 May 2016 14:56:35 +0200
+
